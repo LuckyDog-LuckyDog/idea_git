@@ -7,4 +7,8 @@ package pojo;
 public class User {
     String name;
     String age;
+public void name(){
+    System.out.println("你好");
+}
+
 }
